@@ -1,0 +1,23 @@
+/* Scrollbar Section Start */
+
+/* Width */
+::-webkit-scrollbar{
+  width: 0.5rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track{
+    background: #ebf3fe;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb{
+ background: #CBC3E3;
+ 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover{
+    background:#4d8f84;
+}
+/* Scrollbar Section End */
